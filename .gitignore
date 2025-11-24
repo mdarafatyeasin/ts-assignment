@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+
+# Separate problems solution
+src/problem1.ts
+src/problem2.ts
+src/problem3.ts
+src/problem4.ts
+src/problem5.ts
+src/problem6.ts
+src/problem7.ts
+src/problem8.ts
